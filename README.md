@@ -121,15 +121,15 @@ All the important basisc **JAVA** topic’s, and codes example that you found us
 
 
 <details>
-<summary> <strong > QUESTIONS SET </strong> </summary>
+<summary> <strong > QUESTIONS & ANSWER SET </strong> </summary>
 <br/>
 
-`01` [Questions Set 1](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Question_Set_1.java)
+`01` [QNA Set 1](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Question_Set_1.java)
 
-`02` [Questions Set 2](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Question_Set_2.java)
+`02` [QNA Set 2](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Question_Set_2.java)
 
-`03` [Questions Set 3](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Question_Set_3_RockPaperScissor.java) `ROCK PAPER SCISSOR`
+`03` [QNA Set 3](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Question_Set_3_RockPaperScissor.java) `ROCK PAPER SCISSOR`
 
-`04` [Questions Set 4](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Question_Set_4_Online_Library.java) `Online Library`
+`04` [QNA Set 4](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Question_Set_4_Online_Library.java) `Online Library`
 
 </details>
