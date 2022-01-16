@@ -10,8 +10,10 @@
 All the important basisc <b>JAVA</b> topic’s, and codes example that you found useful, when you are a <b>JAVA Beginner</b>.
 </p>
 
+# CHAPTERS
+
 <details>
-<summary> <strong > PART 1 </strong> </summary>
+<summary> <strong > CHAPTERS 1 </strong> </summary>
 <br/>
 
 `01` [Hello World](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_01_HelloWorld.java)
@@ -56,7 +58,7 @@ All the important basisc <b>JAVA</b> topic’s, and codes example that you found
 
 
 <details>
-<summary> <strong > PART 2 </strong> </summary>
+<summary> <strong > CHAPTERS 2 </strong> </summary>
 <br/>
 
 `20` [Introduction to Java OPPS Consept](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_20_Introduction%20To%20Java%20OPPS.txt) `Text`
@@ -83,7 +85,7 @@ All the important basisc <b>JAVA</b> topic’s, and codes example that you found
 
 
 <details>
-<summary> <strong > PART 3 </strong> </summary>
+<summary> <strong > CHAPTERS 3 </strong> </summary>
 <br/>
 
 `29` [Abstract Class in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_29_Abstract_class.java)
@@ -108,7 +110,7 @@ All the important basisc <b>JAVA</b> topic’s, and codes example that you found
 
 
 <details>
-<summary> <strong > PART 4 </strong> </summary>
+<summary> <strong > CHAPTERS 4 </strong> </summary>
 <br/>
 
 `38` [Packages in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_38_Packages%20In%20Java.txt) `Text`
@@ -132,7 +134,7 @@ All the important basisc <b>JAVA</b> topic’s, and codes example that you found
 </details>
 
 
-
+#  PRACTICE SET
 
 <details>
 <summary> <strong > PRACTICE SET </strong> </summary>
@@ -148,6 +150,8 @@ All the important basisc <b>JAVA</b> topic’s, and codes example that you found
 
 </details>
 
+
+# QUESTIONS & ANSWER SET
 
 <details>
 <summary> <strong > QUESTIONS & ANSWER SET </strong> </summary>
