@@ -1,0 +1,35 @@
+A package is used to group related classes.
+packages help in avoiding name conflicts
+
+ There are two types of packages :
+-------------------------------------
+Build-in packages - java API
+User-defined packages - Custom packages
+
+
+Import keyword is used to import packages in the java program. Example :
+--------------------------------------------------------------------------
+import java lang * - import
+
+import java string -  import string from java long
+
+
+
+Example of import class
+1)
+import java.util.Scanner;
+
+2)
+import java.util.*;
+
+
+
+In the terminal
+
+' javac -d File_name java '
+
+create a java class, and after create file class
+
+' java File_name java '
+
+this command execute the class
