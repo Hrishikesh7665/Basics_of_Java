@@ -2,9 +2,6 @@
 Add a sleep method in the welcome thread of question 5 to delay its execution for 200ms.
 */
 
-
-import java.util.ArrayList;
-
 class Thread1New extends Thread{
     public void run(){
         try {
@@ -21,7 +18,7 @@ class Thread2New extends Thread {
             System.out.println("Good morning");
         }
     }
-public class Question_Set_7_ArrayList {
+public class Question_Set_7 {
     public static void main(String[] args) {
         Thread1New t1= new Thread1New();
         Thread2New t2= new Thread2New();
