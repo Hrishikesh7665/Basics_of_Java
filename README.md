@@ -1,9 +1,14 @@
-[![](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/logo.svg)](https://www.oracle.com/in/java/)
+<p align="center">
+  <a href="https://www.oracle.com/in/java/">
+  <img src="https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/logo.svg" alt="Learn Basics of Java"/>
+  </a>
+</p>
+  
+<h1 align="center">Basics of Java</h1>
 
-# Basics of Java
-All the important basisc **JAVA** topic’s, and codes example that you found useful, when you are a **JAVA Beginner**.
-
-**Best wishes for your JAVA journey.**
+<p align="center">
+All the important basisc <b>JAVA</b> topic’s, and codes example that you found useful, when you are a <b>JAVA Beginner</b>.
+</p>
 
 <details>
 <summary> <strong > PART 1 </strong> </summary>
@@ -102,6 +107,29 @@ All the important basisc **JAVA** topic’s, and codes example that you found us
 </details>
 
 
+<details>
+<summary> <strong > PART 4 </strong> </summary>
+<br/>
+
+`38` [Packages in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_38_Packages%20In%20Java.txt) `Text`
+
+`39` [Access Modifiers in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_39_Access_Modifiers.java)
+
+`40` [Errors & Exception in Java in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_40_Errors%20%26%20Exception%20in%20Java.txt) `Text`
+
+`41` [SyntaxErrors LogicalErrors & RuntimeErrors in Java Demo](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_41_SyntaxErrors_LogicalErrors_RuntimeErrors_DEMO.java) `Example`
+
+`42` [Try-Catch Block in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_42_TryCatch_Block_Java.java)
+
+`43` [Handling Specific Exceptions in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_43_Handling_Specific_Exceptions.java)
+
+`44` [Nested TryCatch Block in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_44_Nested_TryCatch_Block.java)
+
+`45` [Exception Class & Custom Exception in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_45_Exception_Class_Custom_Exception.java)
+
+`46` [Using Throw & Throws Keyword in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_46_Throw_vs_Throws.java)
+
+</details>
 
 
 
@@ -112,10 +140,11 @@ All the important basisc **JAVA** topic’s, and codes example that you found us
 
 `01` [Practice Set 1](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Practice_Set_1.java)
 
-
 `02` [Practice Set 2](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Practice_Set_2.java)
 
-`03` [Practice Set 2](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Practice_Set_3.java)
+`03` [Practice Set 3](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Practice_Set_3.java)
+
+`04` [Practice Set 4](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Practice_Set_4.java)
 
 </details>
 
@@ -133,3 +162,6 @@ All the important basisc **JAVA** topic’s, and codes example that you found us
 `04` [QNA Set 4](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Question_Set_4_Online_Library.java) `Online Library`
 
 </details>
+
+
+**Best wishes for your JAVA journey.**
