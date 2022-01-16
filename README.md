@@ -131,6 +131,15 @@ All the important basisc <b>JAVA</b> topic’s, and codes example that you found
 
 `46` [Using Throw & Throws Keyword in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_46_Throw_vs_Throws.java)
 
+`47` [Finally Block in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_47_FinallyBlock.java)
+
+`48` [Threading Extends Thread Class in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_48_Thread_Extends_Thread_Class.java)
+
+`49` [Threading Implementing Runnable Interface in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_49_Thread_Implementing_Runnable_Interface.java)
+
+`50` [Life Cycle of a Thread in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_50_Thread%20Life%20Cycle.txt) `Text`
+
+
 </details>
 
 
@@ -148,6 +157,10 @@ All the important basisc <b>JAVA</b> topic’s, and codes example that you found
 
 `04` [Practice Set 4](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Practice_Set_4.java)
 
+`05` [Practice Set 5](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Practice_Set_5.java) `Incomplete`
+
+`06` [Practice Set 6](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Practice_Set_6.java)
+
 </details>
 
 
@@ -164,6 +177,14 @@ All the important basisc <b>JAVA</b> topic’s, and codes example that you found
 `03` [QNA Set 3](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Question_Set_3_RockPaperScissor.java) `ROCK PAPER SCISSOR`
 
 `04` [QNA Set 4](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Question_Set_4_Online_Library.java) `Online Library`
+
+`05` [QNA Set 5](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Question_Set_5.java) `Thread`
+
+`06` [QNA Set 6](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Question_Set_6_Custom_Calculator.java) `Online Library` `Not Done`
+
+`07` [QNA Set 7](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Question_Set_7.java)
+
+`08` [QNA Set 8](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Question_Set_8_Priority.java) `Thread Priority`
 
 </details>
 
