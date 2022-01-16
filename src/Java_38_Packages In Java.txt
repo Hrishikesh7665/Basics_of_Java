@@ -26,10 +26,10 @@ import java.util.*;
 
 In the terminal
 
-' javac -d File_name java '
+' javac File_name.java '
 
 create a java class, and after create file class
 
-' java File_name java '
+' java File_name '
 
 this command execute the class
