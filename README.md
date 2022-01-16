@@ -7,8 +7,63 @@
 <h1 align="center">Basics of Java</h1>
 
 <p align="center">
-All the important basisc <b>JAVA</b> topic’s, and codes example that you found useful, when you are a <b>JAVA Beginner</b>.
+All the important basics <b>JAVA</b> topic’s, and codes example that you found useful, when you are a <b>JAVA Beginner</b>.
 </p>
+
+
+# INTRODUCTION
+
+* Java is **platform-independent** programming language because it does not depend on any type of platform. In Java, programs are compiled into byte code and that byte code is platform-independent.
+
+* Java strictly follow **Object Oriented Programming (OOPs) Concept**.
+
+* The Java source code first compiled into a binary byte code using Java compiler, then this byte code runs on the JVM (Java Virtual Machine), which is a software-based interpreter. So, **Java is considered as both Interpreted and Compiled**.
+
+* Java is faster than Python.
+
+* Java is **dynamic and extensible** means with the help of OOPs, we can add classes and add new methods to classes, creating new classes through subclasses. This makes it easier for us to expand our own classes and even modify them. Java gives the facility of dynamically linking new class libraries, methods, and objects.
+
+* **Java is distributed** because it encourages users to create distributed applications. In Java, we can split a program into many parts and store these parts on different computers. A Java programmer sitting on a machine can access another program running on the other machine.
+
+* Java is **architecture neutral** because there are no implementation dependent features, for example, the size of primitive types is fixed.
+
+* Portability refers to the ability to run a program on different machines. Java applications and applets as portable, means the applications and applets run on different types of machines with no changes (such as recompilation or tweaks to the source code).
+
+* There are N numbers of Java Libraries and Modules.
+
+
+# USAGE
+
+Users can compile Java code to Java Byte-Code and run that Byte-Code manually. To do that you need to install Java JDK (Java Development Kit) on your machine. After that you can use these following commands.
+
+## Syntax
+
+* To compile Source-Code to Byte-Code (.class)
+
+```
+javac File_name.java
+```
+
+* To run the Byte-Code (.class)
+
+```
+java File_name
+```
+## Example
+
+* To compile Source-Code to Byte-Code (.class)
+
+```
+javac Java_01_HelloWorld.java
+```
+
+* To run the Byte-Code (.class)
+
+```
+java Java_01_HelloWorld
+```
+
+**N.B: Java File File-Name and Java Main Class Name Alwayes Ment To Be Same.**
 
 # CHAPTERS
 
@@ -63,7 +118,7 @@ All the important basisc <b>JAVA</b> topic’s, and codes example that you found
 
 `20` [Introduction to Java OPPS Consept](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_20_Introduction%20To%20Java%20OPPS.txt) `Text`
 
-`21` [Createing a New Class in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_21_Own_Class.java)
+`21` [Creating a New Class in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_21_Own_Class.java)
 
 `22` [Access Modifiers Getters & Setters in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_22_AccessModifiers_Getters_and_Setters.java)
 
@@ -119,13 +174,13 @@ All the important basisc <b>JAVA</b> topic’s, and codes example that you found
 
 `40` [Errors & Exception in Java in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_40_Errors%20%26%20Exception%20in%20Java.txt) `Text`
 
-`41` [SyntaxErrors LogicalErrors & RuntimeErrors in Java Demo](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_41_SyntaxErrors_LogicalErrors_RuntimeErrors_DEMO.java) `Example`
+`41` [Syntax-Errors Logical-Errors & Runtime-Errors in Java Demo](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_41_SyntaxErrors_LogicalErrors_RuntimeErrors_DEMO.java) `Example`
 
 `42` [Try-Catch Block in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_42_TryCatch_Block_Java.java)
 
 `43` [Handling Specific Exceptions in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_43_Handling_Specific_Exceptions.java)
 
-`44` [Nested TryCatch Block in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_44_Nested_TryCatch_Block.java)
+`44` [Nested Try-Catch Block in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_44_Nested_TryCatch_Block.java)
 
 `45` [Exception Class & Custom Exception in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_45_Exception_Class_Custom_Exception.java)
 
