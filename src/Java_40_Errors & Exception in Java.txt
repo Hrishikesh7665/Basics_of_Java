@@ -11,7 +11,7 @@ N.B: In Exceptions we will only work with Runtime errors.
 
 Syntax Errors:
 -------------- 
-When complex finds something wrong with our program, it throws a syntax error.
+When compiler finds something wrong with our program, it throws a syntax error.
 
 Example:
 ---------
