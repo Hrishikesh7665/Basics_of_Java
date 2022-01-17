@@ -188,12 +188,28 @@ java Java_01_HelloWorld
 
 `47` [Finally Block in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_47_FinallyBlock.java)
 
+</details>
+
+
+<details>
+<summary> <strong > CHAPTERS 5 </strong> </summary>
+<br/>
+  
 `48` [Threading Extends Thread Class in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_48_Thread_Extends_Thread_Class.java)
 
 `49` [Threading Implementing Runnable Interface in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_49_Thread_Implementing_Runnable_Interface.java)
 
 `50` [Life Cycle of a Thread in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_50_Thread%20Life%20Cycle.txt) `Text`
 
+`51` [Constructors of Thread class in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_51_Constructors_of_Thread_class.java)
+
+`52` [Thread Priorities in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_52_Thread_Priorities.java) 
+
+`53` [Thread Methods in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_53_Thread_Methods.java) 
+
+`54` [Thread Interrupt Method in Java Example](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_54_Thread_Interrupt_EXAMPLE.java) `Example`
+
+`55` [Thread Interrupt Method in Java Example 2](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_55_Thread_Interrupt_EXAMPLE2.java) `Example`
 
 </details>
 
