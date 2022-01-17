@@ -46,7 +46,7 @@ In the above example, on() is the abstract method.
 
 abstract class Parent_Class{
     public Parent_Class(){
-        System.out.println("Mai base2 ka constructor hoon");
+        System.out.println("Mai Parent_Class ka constructor hoon");
     }
     public void sayHello(){
         System.out.println("Hello");
