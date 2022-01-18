@@ -214,6 +214,48 @@ java Java_01_HelloWorld
 </details>
 
 
+<details>
+<summary> <strong > CHAPTERS 6 </strong> </summary>
+<br/>
+  
+`56` [Static Keyword in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_56_Static_Keyword.java)
+
+`57` [ArrayList and ArrayList Add Method in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_57_ArrayList_Add_Method.java)
+
+`58` [ArrayList Remove Method in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_58_ArrayList_Remove_Method.java)
+
+`59` [ArrayList Contains Method in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_59_ArrayList_Contains_Method.java)
+
+`60` [ArrayList AddAll Method in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_60_ArrayList_AddAll_Method.java)
+
+`61` [ArrayList IndexOf Method in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_61_ArrayList_IndexOf_Method.java) 
+
+`62` [ArrayList LastIndexOf Method in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_62_ArrayList_LastIndexOf_Method.java) 
+
+`63` [ArrayList Set Method in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_63_ArrayList_Set_Method.java)
+
+`64` [Accessing ArrayList and Size Method in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_64_Accessing_ArrayList_and_Size_Method.java)
+
+`65` [ArrayList Clear Method in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_65_ArrayList_Clear_Method.java)
+
+`66` [ArrayDeque in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_66_ArrayDeque.txt) `Text`
+
+`67` [ArrayDeque Inserting an Element (FIRST)](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_67_ArrayDeque_Inserting_an_element_FIRST.java)
+
+`68` [ArrayDeque Inserting an Element (END)](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_68_ArrayDeque_Inserting_an_element_END.java)
+
+`69` [ArrayDeque Accessing an Element (FIRST)](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_69_ArrayDeque_Accessing_an_element_FIRST.java) 
+
+`70` [ArrayDeque Accessing an Element (END)](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_70_ArrayDeque_Accessing_an_element_END.java) 
+
+`71` [ArrayDeque Removing an Element (FIRST)](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_71_ArrayDeque_Removing_an_element_FIRST.java)
+
+`72` [ArrayDeque Removing an Element (END)](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_72_ArrayDeque_Removing_an_element_END.java)
+
+
+</details>
+
+
 ##  PRACTICE SET
 
 <details>
