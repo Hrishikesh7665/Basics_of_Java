@@ -1,0 +1,25 @@
+LinkedList in Java:
+--------------------
+The LinkedList class in Java provides us with the doubly linked list data structure.
+
+Each element of the linked list is known as a node.
+
+Each node points to the address of the next node & its previous node.
+
+Linked lists are preferred over the Array list because the insertion & deletion in the linked lists can be done in a constant time. But, in arrays, if we want to add or delete an element in between then, we need to shift all the other elements.
+
+In a linked list, it is impossible to directly access an element because we need to traverse the whole linked list to get the desired element.
+
+
+ArrayList Vs. LinkedList:
+---------------------------
+Although ArrayList & LinkedList both implement the List interface and have the same methods, it is important to understand when to use which one.
+
+The insertion & deletion can be done in constant time in Linked List, so it is best to use the linked list when you need to add or remove elements frequently.
+
+Use ArrayList when you want to access the random elements frequently, as it can’t be done in a linked list in constant time.
+
+
+Most of the LinkedList Methods are Very Similar to ArrayList.
+
+LinkedList Contain So Many  Methods. You Can Read About Those Methods In Oracle Documentation.
