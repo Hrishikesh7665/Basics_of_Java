@@ -252,8 +252,35 @@ java Java_01_HelloWorld
 
 `72` [ArrayDeque Removing an Element (END)](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_72_ArrayDeque_Removing_an_element_END.java)
 
+</details>
+
+
+<details>
+<summary> <strong > CHAPTERS 7 </strong> </summary>
+<br/>
+  
+`73` [LinkedList and LinkedList vs ArrayList in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_73_LinkedList%20%26%20LinkedList%20vs%20ArrayList.txt) `Text`
+
+`74` [LinkedList Add Method in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_74_LinkedList_Add_Method.java)
+
+`75` [LinkedList Remove Method in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_75_LinkedList_Remove_Method.java)
+
+`76` [LinkedList Contains Method in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_76_LinkedList_Contains_Method.java)
+
+`77` [LinkedList AddAll Method in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_77_LinkedList_AddAll_Method.java)
+
+`78` [LinkedList IndexOf Method in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_78_LinkedList_IndexOf_Method.java) 
+
+`79` [LinkedList LastIndexOf Method in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_79_LinkedList_LastIndexOf_Method.java) 
+
+`80` [LinkedList Set Method in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_80_LinkedList_Set_Method.java)
+
+`81` [Accessing LinkedList and Size Method in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_81_Accessing_LinkedList_and_Size_Method.java)
+
+`82` [LinkedList Clear Method in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_82_LinkedList_Clear_Method.java)
 
 </details>
+
 
 
 ##  PRACTICE SET
