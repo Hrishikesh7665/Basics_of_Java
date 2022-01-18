@@ -15,8 +15,8 @@ System.out.format()
 import java.util.Scanner;
 public class Java_07_Strings_and_Format {
     public static void main(String[] args) {
-        // String name = new String("Harry");
-        // String name = "Harry";
+        // String name = new String("Hrishi");
+        // String name = "Hrishi";
         // System.out.print("The name is: ");
         // System.out.print(name);
         int a = 6;
