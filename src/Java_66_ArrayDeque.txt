@@ -1,0 +1,23 @@
+ArrayDeque in Java:
+--------------------
+ArrayDeque = Resizable array + Deque interface.
+
+ArrayDeque implements the Queue & Deque interface.
+
+There are no capacity restrictions for ArrayDeque, and it provides us the facility to add or remove any element from both sides of the queue.
+
+ArrayDeque Also known as Array Double Ended Queue.
+
+It is faster than Linked list and stack.
+
+
+Constructors of ArrayDeque class :
+-----------------------------------
+ArrayDeque(): Used to create an empty array deque that has the capacity to hold 16 elements.
+
+ArrayDeque(int numElements): Used to create an empty array deque that has the capacity to hold the specified number of elements.
+
+ArrayDeque(Collection<? extends E> c): Used to create an array deque containing all the elements of the specified collections.
+
+
+ArrayDeque Contain So Many  Methods. You Can Read About Those Methods In Oracle Documentation.
