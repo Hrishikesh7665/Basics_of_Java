@@ -211,6 +211,8 @@ java Java_01_HelloWorld
 
 `55` [Thread Interrupt Method in Java Example 2](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_55_Thread_Interrupt_EXAMPLE2.java) `Example`
 
+`56` [Static Keyword in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_56_Static_Keyword.java)
+
 </details>
 
 
@@ -218,8 +220,6 @@ java Java_01_HelloWorld
 <summary> <strong > CHAPTERS 6 </strong> </summary>
 <br/>
   
-`56` [Static Keyword in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_56_Static_Keyword.java)
-
 `57` [ArrayList and ArrayList Add Method in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_57_ArrayList_Add_Method.java)
 
 `58` [ArrayList Remove Method in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_58_ArrayList_Remove_Method.java)
