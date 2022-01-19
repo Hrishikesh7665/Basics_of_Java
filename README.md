@@ -283,6 +283,31 @@ java Java_01_HelloWorld
 
 
 
+<details>
+<summary> <strong > CHAPTERS 8 </strong> </summary>
+<br/>
+  
+`83` [Hashing in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_83_Hashing%20in%20Java.txt) `Text`
+
+`84` [HashSet in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_84_HashSet.txt) `Text`
+
+`85` [HashSet Add Method in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_85_HashSet_Add_Method.java)
+
+`86` [HashSet Remove Method in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_86_HashSet_Remove_Method.java)
+
+`87` [HashSet Contains Method in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_87_HashSet_Contains_Method.java)
+
+`88` [HashSet AddAll Method in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_88_HashSet_AddAll_Method.java)
+
+`89` [HashSet isEmpty Method in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_89_HashSet_isEmpty_Method.java)
+
+`90` [HashSet Size Method in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_90_HashSet_Size_Method.java)
+
+`91` [HashSet Clear Method in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_91_HashSet_Clear_Method.java)
+
+</details>
+
+
 ##  PRACTICE SET
 
 <details>
