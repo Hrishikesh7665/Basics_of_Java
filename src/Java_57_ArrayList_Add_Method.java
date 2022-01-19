@@ -8,6 +8,10 @@ How to declare an ArrayList :
 -------------------------------
 ArrayList<Integer> l1 = new ArrayList<>();      //Creates an ArrayList object of integer type
 
+ArrayList<Integer> l1 = new ArrayList<>(5);      //Creates an ArrayList object of integer type with initial capacity of 5
+
+//N.B: After initialing capacity we can't add more than this capacity.
+
 
 ArrayList Contain So Many  Methods. You Can Read About Those Methods In Oracle Documentation.
 */
