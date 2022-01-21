@@ -282,7 +282,6 @@ java Java_01_HelloWorld
 </details>
 
 
-
 <details>
 <summary> <strong > CHAPTERS 8 </strong> </summary>
 <br/>
@@ -307,6 +306,26 @@ java Java_01_HelloWorld
 
 </details>
 
+
+<details>
+<summary> <strong > CHAPTERS 9 </strong> </summary>
+<br/>
+  
+`92` [Create a New File in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_92_Create_A_NewFile.java)
+
+`93` [Writing to a File in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_93_Writing_to_a_File.java)
+
+`94` [Reading from a File in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_94_Reading_a_File.java)
+
+`95` [Deleting a file in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_95_Deleting_a_File.java)
+
+`96` [Create a New Directory in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_96_Create_A_New_Dir.java)
+
+`97` [List Contains of a Directory in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_97_List_Contains_of_a_Dir.java)
+
+`98` [Delete a Directory in Java](https://github.com/Hrishikesh7665/Basics_of_Java/blob/main/src/Java_98_Delete_A_Dir.java)
+
+</details>
 
 ##  PRACTICE SET
 
